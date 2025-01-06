@@ -6,9 +6,7 @@
 ## Features
 - **Medical Text Analysis**: Processes and generates insights from medical literature and documentation using OpenAI, Hugging Face, and Cohere APIs.
 - **Optical Character Recognition (OCR)**: Extracts text from medical imaging (e.g., prescriptions, reports) using Tesseract OCR.
-- **Health Data Analysis**: Employs `yfinance` for financial data analysis of healthcare stocks or investments.
-
+  
 ## Use Cases
 - **Medical Insights Generation**: Analyze and summarize lengthy medical documents or reports using LLMs.
 - **OCR in Healthcare**: Digitize handwritten prescriptions or lab reports for further processing.
-- **Financial Analysis**: Evaluate financial performance metrics of healthcare institutions using stock data.
