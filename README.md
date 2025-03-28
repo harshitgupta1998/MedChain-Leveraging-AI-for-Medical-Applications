@@ -10,11 +10,6 @@
   - Extraction of keywords, conditions, and medications  
   - Specialized query-answering
 
-- **Optical Character Recognition (OCR)**  
-  Extracts text from medical imaging (e.g., prescriptions, lab reports) using Tesseract OCR.  
-  - Transforms scanned or handwritten notes into machine-readable text  
-  - Helps reduce manual entry and transcription errors
-
 - **AI-Assisted Financial Insights**  
   Provides basic workflows to analyze financial statements and insurance claims.  
   - Identifies cost-saving opportunities and highlights anomalous entries  
